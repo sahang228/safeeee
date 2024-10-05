@@ -1,0 +1,36 @@
+.obox{
+    border: solid 1px;
+    height: 600px;
+    background-color: beige;
+    background-image: url(index.png);
+    background-repeat: no-repeat;
+    background-size: 1250px 600px;
+}
+#cafeee{
+    color: beige;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 200px;
+}
+#register,#login{
+    height: 60px;
+    width: 150px;
+    background-color: whitesmoke;
+}
+#register{
+    margin-left: 480px;
+}
+#register a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#register:hover{
+    background-color: rgb(16, 15, 15);
+}
+#login:hover{
+    background-color: violet;
+}
+

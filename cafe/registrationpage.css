@@ -1,0 +1,35 @@
+body{
+    background-image: url(registration.png);
+    background-repeat: no-repeat;
+    background-size: 1250px 600px;
+}
+form{
+    border: 0lvi rgba(27, 25, 25, 0.956);
+    width: 400px;
+    background-color: rgba(230, 230, 222, 0.552);
+}
+h1{
+    text-align: center;
+    color: rgb(0, 6, 10);
+    font-size: 45px;
+}
+label{
+    font-size: 25px;
+    text-align: center;
+    margin-left: 40px;
+
+}
+input{
+    width: 300px;
+    height: 35px;
+    margin-left: 40px;
+}
+button{
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    margin-left: 140px;
+}
+p{
+    color: rgb(56, 45, 4);
+}
